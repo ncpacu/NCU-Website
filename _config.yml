@@ -8,9 +8,9 @@ permalink:        pretty
 plugins: [jekyll-paginate]
 
 # Setup
-title:            Hyde
+title:            NCPA Competition Union
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      '<blockquote id="slogan">Work hard, then crash everyone <br> 努力，然后干碎所有人</blockquote>'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
