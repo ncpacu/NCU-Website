@@ -5,25 +5,16 @@ highlighter:      rouge
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
-plugins: [jekyll-paginate]
 
 # Setup
 title:            NCPA Competition Union
-tagline:          'A Jekyll theme'
 description:      '<blockquote id="slogan">Work hard, then crash everyone <br> 努力，然后干碎所有人</blockquote>'
-url:              http://hyde.getpoole.com
 baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-paginate_path: "page:num"
-
 
 # Custom vars
 version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
+
+include:             ['_pages']
