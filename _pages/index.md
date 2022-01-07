@@ -2,6 +2,7 @@
 layout: default
 id: home
 permalink: /
+title: Home
 ---
 
 this is a markdown file
