@@ -1,14 +1,6 @@
 ---
-string: "this is the yaml meta data"
-alias: "format breaking page"
-tags: sandbox
 layout: page
-title: format test
-author: leon
-multiline:
-- un
-- deux
-- trois 
+title: Format Test
 ---
 
 # Format testing page

@@ -1,10 +1,11 @@
 ---
 layout: default
 id: home
+title: Home
 permalink: /
 ---
 
-this is a markdown file
+This should be the home page of NCU
 
 # hi this is our heading
 
