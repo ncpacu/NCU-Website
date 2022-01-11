@@ -1,7 +1,5 @@
 ---
-layout: default
-id: home
-title: Home
+layout: page
 permalink: /
 title: Home
 ---

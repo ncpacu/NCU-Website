@@ -17,4 +17,8 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
 
-include:             ['pages', 'posts']
+collections:
+  competitions:
+    output: true
+  pages:
+    output: true
