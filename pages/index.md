@@ -3,6 +3,7 @@ layout: default
 id: home
 title: Home
 permalink: /
+title: Home
 ---
 
 This should be the home page of NCU
@@ -11,3 +12,5 @@ This should be the home page of NCU
 
 > this is someone's very smart quote
 > —Coco Gao
+
+This line is written using NetlifyCMS
