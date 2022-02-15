@@ -3,17 +3,18 @@ layout: page
 permalink: /
 title: Home
 ---
-This should be the home page of NCU
 
-# hi this is our heading
+# NCPA Competition Union
 
-> this is someone's very smart quote
-> —Coco Gao
+Welcome!
 
-this is a line
+Together, we learn and we conquer!
 
+To get started:
 
-This line is written using NetlifyCMS
+[Learn more about NCU](about)
+
+[View our list of competitions](competitions)
 
 ---
 

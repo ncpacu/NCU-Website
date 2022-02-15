@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contributors
+permalink: /contributors
 ---
 
 ## Website Contributors

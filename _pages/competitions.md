@@ -1,6 +1,7 @@
 ---
 title: Competitions
 layout: page
+permalink: /competitions
 ---
 
 # Competitions
@@ -26,7 +27,7 @@ You may also suggest a competition that you are interested but is not on this li
 <form name="contact" netlify>
   <p>
     <label>Your name:</label> <br>
-    <input type="email" name="name"/>
+    <input type="text" name="name"/>
   </p>
   <p>
     <label>Your email:</label> <br>
@@ -38,8 +39,7 @@ You may also suggest a competition that you are interested but is not on this li
   </p>
   <p>
     <label>Additional information:</label> <br>
-    <textarea type="text" name="additionalInfo" rows="4" cols="16">
-    </textarea>
+    <textarea type="text" name="additionalInfo" rows="4" cols="16"></textarea>
   </p>
   <p>
     <button type="submit">Send</button>
