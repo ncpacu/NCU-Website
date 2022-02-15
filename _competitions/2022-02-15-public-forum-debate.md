@@ -2,7 +2,7 @@
 layout: competition
 title: Public Forum Debate
 ---
-Last updated 24 Jan 2022 | By Leon
+Last updated 24 Jan 2022 \| By Leon
 
 Public Forum (PF) debate is a type of debate that is common in US high schools. A team in PF consists of two people that are either speaker 1 or 2.
 

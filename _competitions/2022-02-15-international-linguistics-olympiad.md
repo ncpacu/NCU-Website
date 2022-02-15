@@ -2,7 +2,7 @@
 layout: competition
 title: International Linguistics Olympiad
 ---
-Last updated 15 Feb 2022 | By Leon
+Last updated 15 Feb 2022 \| By Leon
 
 ## Introduction
 
