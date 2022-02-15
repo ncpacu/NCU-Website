@@ -2,6 +2,10 @@
 markdown:         kramdown
 highlighter:      rouge
 
+kramdown:
+  input: GFM
+  hard_wrap: true
+
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
